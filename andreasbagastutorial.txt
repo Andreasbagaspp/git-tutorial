@@ -1,5 +1,5 @@
 Andreas Resolusi
-- Main pakai lo
+- Main pakai logika
 - menjadi orang yang periang seperti dulu gika 
 - paham html,css,javascript
 - membuat website responsive
