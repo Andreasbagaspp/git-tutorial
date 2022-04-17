@@ -1,6 +1,7 @@
 Rencana belajar Andreas 
 
 - HTML
+*HTML 5 Fundamental 
 - CSS
 * Angular 
 * Bootstrap 5
