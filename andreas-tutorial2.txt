@@ -5,4 +5,5 @@ Rencana belajar Andreas
 * Angular 
 * Bootstrap 5
 - Javascript
+* Struktur Data 
 - CSS Framework
