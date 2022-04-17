@@ -4,6 +4,7 @@ Rencana belajar Andreas
 - CSS
 * Angular 
 * Bootstrap 5
+* Reach JS 
 - Javascript
 * Struktur Data 
 - CSS Framework
